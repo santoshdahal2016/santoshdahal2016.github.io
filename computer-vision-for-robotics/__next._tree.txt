@@ -1,0 +1,6 @@
+:HL["/_next/static/chunks/ad3644e59af9cd8a.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Computer-Vision-for-Robotics-steps.png","image"]
+:HL["https://ksr-ugc.imgix.net/assets/014/906/748/8ca17d8c1865628d71104f0bd3c27e0a_original.png?ixlib=rb-2.0.0&crop=faces&w=1552&h=873&fit=crop&v=1483450664&auto=format&frame=1&q=92&s=9a3363f1d569165c9cfd215371e86a88","image"]
+0:{"buildId":"jirWywBDpcxBPiOQYjz6i","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"section","paramType":"d","paramKey":"computer-vision-for-robotics","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
